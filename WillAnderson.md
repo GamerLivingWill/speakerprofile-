@@ -1,5 +1,4 @@
-<img src="./media/image1.jpeg" width="149" height="149" />Speaker
-Profile
+<img src="./media/image1.jpeg" width="149" height="149" />
 
 Name: Will Anderson
 
