@@ -4,7 +4,7 @@ Name: Will Anderson
 
 Occupation: [ Cloud Solutions Architect at Coretek Services ](http://www.coretekservices.com/ "Coretek Services")
 
-Twitter: @GamerLivingWill
+Twitter: [@GamerLivingWill](twitter.com/gamerlivingwill)
 
 Website: [www.lastwordinnerd.com](http://www.lastwordinnerd.com)
 
