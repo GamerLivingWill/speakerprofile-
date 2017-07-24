@@ -35,9 +35,9 @@ You can find him at various places on the internet including
 PowerShellTO, PowerShell.org, Twitter, his personal blog - Last Word in
 Nerd, and occasionally as a guest blogger on 'Hey, Scripting Guy!'.
 
-Speaking Sessions
+## Speaking Sessions
 
-Using Desired State Configuration in Azure
+### Using Desired State Configuration in Azure
 
 Cloud and Datacenter Management MVP Will Anderson takes you through the
 use of Azure’s Desired State Configuration to deliver VM deployment
@@ -50,9 +50,7 @@ Resource Manager IaaS deployments.
 **Format:** Presentation  
 **Time** : 90-120 minutes
 
-(continued on next page)
-
-Conceptualizing Desired State Configuration Using Your Own Scripts
+### Conceptualizing Desired State Configuration Using Your Own Scripts
 
 Still trying to get your head around Desired State Configuration? Start
 with what you know! Cloud and Datacenter Management MVP Will Anderson
@@ -72,7 +70,7 @@ that you’ve already created. In this mega-session, you’ll learn:
 **Format:** Presentation  
 **Time** : 90 minutes
 
-Understanding and Creating Your Own DSC Resources
+### Understanding and Creating Your Own DSC Resources
 
 The community has tons of resources that you can use, but what if you
 can’t find the one you need? Build it!
@@ -90,7 +88,7 @@ walk you through:
 **Format:** Presentation  
 **Time** : 45-60 minutes
 
-Conceptualizing Azure Resource Manager Templates
+### Conceptualizing Azure Resource Manager Templates
 
 Trying to figure out how to deploy your own custom Azure templates can
 be a challenge. In this session, Cloud and Datacenter Management MVP
