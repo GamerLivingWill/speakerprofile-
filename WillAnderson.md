@@ -105,3 +105,17 @@ Will Anderson walks you through:
 **Audience:** Intermediate to Advanced  
 **Format:** Presentation  
 **Time** : 120 minutes
+
+### Auto-Remediation with Operations Management Suite and Azure Automation
+
+Managing your hybrid cloud can be daunting without the right tools.  But with the proper monitoring and automation, task handling can be a snap!  In this session, we discuss:
+
+-   Uploading your custom PowerShell Scripts and Modules to Azure Automation.
+
+-   COnfiguring alerts in OMS to trigger automation runbooks.
+
+-   Understand OMS Webhood data and how to ingest it in your modules.
+
+**Audience:** Intermediate to Advanced  
+**Format:** Presentation  
+**Time** : 60 minutes
