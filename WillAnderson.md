@@ -8,32 +8,11 @@ Website: [www.lastwordinnerd.com](http://www.lastwordinnerd.com)
 
 Bio:
 
-Will Anderson is a fifteen-year infrastructure veteran with a
-specialization in Patch Management and Compliance and System Center
-Configuration Manager. Working in environments ranging from 80 users to
-over 150,000, Will has acquired a knowledge of a broad range of products
-and service lines ranging from Exchange, Active Directory and GPO, to
-the operating system platform and a variety of applications.
+Will Anderson is a fifteen-year infrastructure veteran with roots in Patch Management, Security, and Compliance. Working in environments ranging from 80 users to over 150,000, Will has acquired a knowledge of a broad range of products and service lines ranging from Exchange, Active Directory and GPO, to the operating system platform and a variety of applications. In recent years he has been focused on delivering cloud solutions and guiding customers into the world of DevOps.
 
-In recent years, Will has become quite the nerd about PowerShell, and
-blogs about the latest, new, cool things he finds or creates to make his
-life as an admin and engineer easier. You can find him on PowerShell.org
-as a moderator, webmaster, and occasional writer for the PowerShell
-TechLetter. He is also a co-founder of the Toronto PowerShell Users'
-Group (PowerShellTO), founder of the Metro Detroit PowerShell User
-Group, and a member of the Association for Windows PowerShell
-Professionals.
+Will has become quite the nerd about PowerShell, and blogs about the latest, new, cool things he finds or creates to make his life as an admin and engineer easier. You can find him on PowerShell.org as a moderator, webmaster, and occasional writer for the PowerShell TechLetter. He is also a founder of the Metro Detroit PowerShell User Group, a member of the Association for Windows PowerShell Professionals, and co-author of Master PowerShell Tricks Volume 2.
 
-Will is a second year recipient of the Microsoft MVP award in Cloud and
-Datacenter Management, and was awarded the moniker of 2015 Honorary
-Scripting Guy, by Ed Wilson – The Scripting Guy, in January 2016. In
-October of 2016, he joined the DevOps Collective Board of Directors. He
-is also a co-author of Master PowerShell Tricks – Volume 2.
-
-Will also nerds out on Video Games, Cars, Photography, and Board Games.
-You can find him at various places on the internet including
-PowerShellTO, PowerShell.org, Twitter, his personal blog - Last Word in
-Nerd, and occasionally as a guest blogger on 'Hey, Scripting Guy!'.
+Will is a third-year recipient of the Microsoft MVP award in Cloud and Datacenter Management, and was awarded the moniker of 2015 Honorary Scripting Guy, by Ed Wilson – The Scripting Guy, in January 2016. In October of 2016, he joined the DevOps Collective Board of Directors.
 
 ## Speaking Sessions
 
