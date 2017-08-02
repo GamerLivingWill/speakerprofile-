@@ -18,6 +18,22 @@ Will is a third-year recipient of the Microsoft MVP award in Cloud and Datacente
 
 ## Speaking Sessions
 
+### Using PowerShell, Azure Automation, and OMS
+
+Cloud and Datacenter Management MVP Will Anderson takes you through 
+configuring Microsoft's Operations Management Suite alerts to trigger 
+Azure Automation runbooks to remediate issues in your environment.  In 
+this session, you'll learn how to:
+
+    - create Azure Automation Accounts and Runbooks
+    - understand and import webhook data from OMS to use in your runbooks
+    and,
+    - adapt your PowerShell scripts to leverage webhook data.
+
+**Audience:** Intermediate to Advanced  
+**Format:** Presentation  
+**Time** : 60 minutes
+
 ### Using Desired State Configuration in Azure
 
 Cloud and Datacenter Management MVP Will Anderson takes you through the
@@ -29,7 +45,7 @@ Resource Manager IaaS deployments.
 
 **Audience:** Intermediate to Advanced  
 **Format:** Presentation  
-**Time** : 90-120 minutes
+**Time** : 60 minutes
 
 ### Conceptualizing Desired State Configuration Using Your Own Scripts
 
