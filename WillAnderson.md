@@ -25,10 +25,10 @@ configuring Microsoft's Operations Management Suite alerts to trigger
 Azure Automation runbooks to remediate issues in your environment.  In 
 this session, you'll learn how to:
 
-    - create Azure Automation Accounts and Runbooks
-    - understand and import webhook data from OMS to use in your runbooks
+    * create Azure Automation Accounts and Runbooks
+    * understand and import webhook data from OMS to use in your runbooks
     and,
-    - adapt your PowerShell scripts to leverage webhook data.
+    * adapt your PowerShell scripts to leverage webhook data.
 
 **Audience:** Intermediate to Advanced  
 **Format:** Presentation  
