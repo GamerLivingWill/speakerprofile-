@@ -8,7 +8,7 @@ Twitter: [@GamerLivingWill](twitter.com/gamerlivingwill)
 
 Website: [www.lastwordinnerd.com](http://www.lastwordinnerd.com)
 
-Bio:
+## Bio:
 
 Will Anderson is a fifteen-year infrastructure veteran with roots in Patch Management, Security, and Compliance. Working in environments ranging from 80 users to over 150,000, Will has acquired a knowledge of a broad range of products and service lines ranging from Exchange, Active Directory and GPO, to the operating system platform and a variety of applications. In recent years he has been focused on delivering cloud solutions and guiding customers into the world of DevOps.
 
