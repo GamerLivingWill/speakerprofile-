@@ -6,6 +6,8 @@ Occupation: [ Cloud Solutions Architect at Coretek Services ](http://www.coretek
 
 Twitter: [@GamerLivingWill](twitter.com/gamerlivingwill)
 
+LinkedIn: [Will Anderson](https://www.linkedin.com/in/gamerlivingwill/)
+
 Website: [www.lastwordinnerd.com](http://www.lastwordinnerd.com)
 
 ## Bio:
