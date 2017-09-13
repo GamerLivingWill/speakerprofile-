@@ -1,5 +1,5 @@
-<img src="./media/image1.jpeg" width="149" height="149" />
 <img src="./media/RevisedSig.png" height="42">
+<img src="./media/image1.jpeg" width="149" height="149" />
 
 Name: Will Anderson
 
