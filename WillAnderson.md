@@ -105,3 +105,11 @@ Will Anderson walks you through:
 **Audience:** Intermediate to Advanced  
 **Format:** Presentation  
 **Time** : 120 minutes
+
+### The Challenge of Implementing DevOps In IT
+
+Implementing DevOps can be a risky and difficult task for many IT organizations.  Done correctly, however, it can almost immediately reduce cost and increase productivity in a space known for moving slowly. In this session, Microsoft Cloud and Datacenter Management MVP Will Anderson talks through some of the misconceptions and challenges surrounding DevOps, and how to overcome them.
+
+**Audience:** Executive
+**Format:** Presentation  
+**Time** : 60 minutes
