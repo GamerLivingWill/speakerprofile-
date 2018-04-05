@@ -21,6 +21,21 @@ Will is a third-year recipient of the Microsoft MVP award in Cloud and Datacente
 
 ## Speaking Sessions
 
+### Managing Managed Images in Azure with Automation and DSC
+
+As more organizations start to walk the path of app modernization,
+Infrastructure-as-a-Service in the cloud continues to play a key role.
+But how do you balance the requirements of organizational standard built 
+imaging requirements with multi-region deployment needs?  Automate it!
+
+In this session, you'll learn how to overcome the limitations of Azure 
+Managed images by:
+   
+   * Leveraging Azure Desired State Configuration to build your organizational image.
+   * Automate the creation of the Virtual Machine, application of the configuration, and 
+      generalization of the image with Azure Automation runbooks, and
+   * Leverage Azure Automation runbooks to build images in any geography, at any time.
+
 ### Using PowerShell, Azure Automation, and OMS
 
 Cloud and Datacenter Management MVP Will Anderson takes you through 
