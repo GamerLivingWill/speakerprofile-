@@ -35,23 +35,6 @@ Managed images by:
    * Automate the creation of the Virtual Machine, application of the configuration, and 
       generalization of the image with Azure Automation runbooks, and
    * Leverage Azure Automation runbooks to build images in any geography, at any time.
-
-### Using PowerShell, Azure Automation, and OMS
-
-Cloud and Datacenter Management MVP Will Anderson takes you through 
-configuring Microsoft's Operations Management Suite alerts to trigger 
-Azure Automation runbooks to remediate issues in your environment.  In 
-this session, you'll learn how to:
-
-    * create Azure Automation Accounts and Runbooks
-    * understand and import webhook data from OMS to use in your runbooks
-    and,
-    * adapt your PowerShell scripts to leverage webhook data.
-
-**Audience:** Intermediate to Advanced  
-**Format:** Presentation  
-**Time** : 60 minutes
-
 ### Using Desired State Configuration in Azure
 
 Cloud and Datacenter Management MVP Will Anderson takes you through the
