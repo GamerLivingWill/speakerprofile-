@@ -17,7 +17,7 @@ Will Anderson is a fifteen-year infrastructure veteran with roots in Patch Manag
 
 Will has become quite the nerd about PowerShell, and blogs about the latest, new, cool things he finds or creates to make his life as an admin and engineer easier. You can find him on PowerShell.org as a moderator, webmaster, and occasional writer for the PowerShell TechLetter. He is also a founder of the Metro Detroit PowerShell User Group, a member of the Association for Windows PowerShell Professionals, and co-author of Master PowerShell Tricks Volumes 2 and 3.
 
-Will is a third-year recipient of the Microsoft MVP award in Cloud and Datacenter Management, and was awarded the moniker of 2015 Honorary Scripting Guy, by Ed Wilson – The Scripting Guy, in January 2016. In October of 2016, he joined the DevOps Collective (501(c)3) Board of Directors.  In 2018, he was named incoming CEO of the DevOps Collective.
+Will is a fourth-year recipient of the Microsoft MVP award in Cloud and Datacenter Management, and was awarded the moniker of 2015 Honorary Scripting Guy, by Ed Wilson – The Scripting Guy, in January 2016. In October of 2016, he joined the DevOps Collective (501(c)3) Board of Directors.  In 2018, he was named CEO of the DevOps Collective.
 
 ## Speaking Sessions
 
