@@ -3,7 +3,7 @@
 
 Name: Will Anderson
 
-Occupation: [ Cloud Solutions Architect at Coretek Services ](http://www.coretekservices.com/ "Coretek Services"), [ Chief Executive Officer - The DevOps Collective ](https://devopscollective.org)
+Occupation: [ Chief Executive Officer - The DevOps Collective ](https://devopscollective.org)
 
 Twitter: [@GamerLivingWill](twitter.com/gamerlivingwill)
 
