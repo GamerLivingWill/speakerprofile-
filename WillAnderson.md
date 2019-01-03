@@ -35,6 +35,11 @@ Managed images by:
    * Automate the creation of the Virtual Machine, application of the configuration, and 
       generalization of the image with Azure Automation runbooks, and
    * Leverage Azure Automation runbooks to build images in any geography, at any time.
+
+**Audience:** Intermediate to Advanced  
+**Format:** Presentation  
+**Time** : 60 minutes
+
 ### Using Desired State Configuration in Azure
 
 Cloud and Datacenter Management MVP Will Anderson takes you through the
